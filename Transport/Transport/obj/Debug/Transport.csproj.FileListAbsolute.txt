@@ -1,0 +1,10 @@
+C:\Users\maksg\Desktop\Transport\Transport\bin\Debug\Transport.exe.config
+C:\Users\maksg\Desktop\Transport\Transport\bin\Debug\Transport.exe
+C:\Users\maksg\Desktop\Transport\Transport\bin\Debug\Transport.pdb
+C:\Users\maksg\Desktop\Transport\Transport\obj\Debug\Transport.Form1.resources
+C:\Users\maksg\Desktop\Transport\Transport\obj\Debug\Transport.Properties.Resources.resources
+C:\Users\maksg\Desktop\Transport\Transport\obj\Debug\Transport.csproj.GenerateResource.cache
+C:\Users\maksg\Desktop\Transport\Transport\obj\Debug\Transport.csproj.CoreCompileInputs.cache
+C:\Users\maksg\Desktop\Transport\Transport\obj\Debug\Transport.exe
+C:\Users\maksg\Desktop\Transport\Transport\obj\Debug\Transport.pdb
+C:\Users\maksg\Desktop\Transport\Transport\obj\Debug\Transport.csprojAssemblyReference.cache
